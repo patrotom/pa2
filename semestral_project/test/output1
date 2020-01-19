@@ -1,0 +1,74 @@
+./patrotom
+*** Welcome to the FITcal v1.0 ***
+
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Please, type in your name: Please, type in your surname: Now choose your nickname which will be used to login to the system: 
+Account has been successfuly created !
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Login: --------------------------
+You have been successfuly logged in to the system !
+--------------------------
+Menu:
+	0 - add new event
+	1 - remove event
+	2 - move event
+	3 - find free time
+	4 - share event
+	5 - unshare event
+	6 - show events
+	7 - export to .ics
+	8 - healthy life manager
+	9 - log out
+Option: --------------------------
+The wizzard will guide you during the adding of a new event.
+Enter when the event starts:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: !! Invalid date or time !!
+
+Do you want to continue ? [Y/N]: Enter when the event starts:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: !! Invalid date or time !!
+
+Do you want to continue ? [Y/N]: Enter when the event starts:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: !! Invalid date or time !!
+
+Do you want to continue ? [Y/N]: Enter when the event starts:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: 
+Enter when the event ends:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: !! Start of the event is same as the end or the event ends sooner than it starts !!
+
+Do you want to continue ? [Y/N]: Enter when the event starts:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: !! Invalid date or time !!
+
+Do you want to continue ? [Y/N]: --------------------------
+Menu:
+	0 - add new event
+	1 - remove event
+	2 - move event
+	3 - find free time
+	4 - share event
+	5 - unshare event
+	6 - show events
+	7 - export to .ics
+	8 - healthy life manager
+	9 - log out
+Option: --------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: 

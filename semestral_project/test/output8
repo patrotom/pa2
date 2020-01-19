@@ -1,0 +1,114 @@
+./patrotom
+*** Welcome to the FITcal v1.0 ***
+
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Please, type in your name: Please, type in your surname: Now choose your nickname which will be used to login to the system: 
+Account has been successfuly created !
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Login: --------------------------
+You have been successfuly logged in to the system !
+--------------------------
+Menu:
+	0 - add new event
+	1 - remove event
+	2 - move event
+	3 - find free time
+	4 - share event
+	5 - unshare event
+	6 - show events
+	7 - export to .ics
+	8 - healthy life manager
+	9 - log out
+Option: --------------------------
+The wizzard will guide you during the adding of a new event.
+Enter when the event starts:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: 
+Enter when the event ends:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: 
+Do you want to set this event as recurring ? [Y/N]: 
+Do you want to enter recurrence limit ? [Y/N]: Enter when the recurrence will be stopped:
+	[Type only the numbers of year, month, month day, hour, minute]
+Year: Month: Day: Hour: Minute: 
+Enter recurrence period, [daily,weekly,monthly,yearly] : 
+Do you want to set up summary for this event ? [Y/N]: Summary: 
+Please enter the class of this event [Public/Private] : 
+Do you want to set up some categories for this event ? [Y/N]: Enter the category: 
+Do you want to enter another one ? [Y/N]: Enter the category: 
+Do you want to enter another one ? [Y/N]: 
+Is this event mandatory or not mandatory ? [IS/IS NOT] : 
+Is this event moveable or not moveable ? [IS/IS NOT] : 
+Do you want to limit how many times it will be possible to move this event ? [Y/N]: 
+Event has been successfuly created !
+--------------------------
+Menu:
+	0 - add new event
+	1 - remove event
+	2 - move event
+	3 - find free time
+	4 - share event
+	5 - unshare event
+	6 - show events
+	7 - export to .ics
+	8 - healthy life manager
+	9 - log out
+Option: --------------------------
+You have not set up the tracking of the healthy life yet !
+Do you want to continue and turn the tracking on ? [Y/N]: Healthy life statistics:
+------------------------
+Number of times when events interfere with:
+	- Breakfast: 93
+	- Snack: 93
+	- Lunch: 93
+	- Dinner: 93
+------------------------
+
+Summary:
+
+- Breakfast:
+	* You are almost completely ignoring your breakfast time, you have to cancel some of your events to stay healthy !
+-----
+- Snack:
+	* You are almost completely ignoring your snack time, you have to cancel some of your events to stay healthy !
+-----
+- Lunch:
+	* You are almost completely ignoring your lunch time, you have to cancel some of your events to stay healthy !
+-----
+- Dinner:
+	* You are almost completely ignoring your dinner time, you have to cancel some of your events to stay healthy !
+------------------------
+
+Overall:
+
+* Number of times when events interfere with your meal times: 372
+
+Your routines for meals are completely broken ! Please cancel the events during your meal times to not to get hurt !
+--------------------------
+Menu:
+	0 - add new event
+	1 - remove event
+	2 - move event
+	3 - find free time
+	4 - share event
+	5 - unshare event
+	6 - show events
+	7 - export to .ics
+	8 - healthy life manager
+	9 - log out
+Option: --------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: 

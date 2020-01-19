@@ -1,0 +1,108 @@
+./patrotom
+*** Welcome to the FITcal v1.0 ***
+
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Please, type in your name: Please, type in your surname: Now choose your nickname which will be used to login to the system: 
+Account has been successfuly created !
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Please, type in your name: Please, type in your surname: Now choose your nickname which will be used to login to the system: 
+!! Account with the same username already exists, please choose another one !!
+
+Do you want to continue ? [Y/N]: Nickname: 
+Account has been successfuly created !
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Please, type in your name: Please, type in your surname: Now choose your nickname which will be used to login to the system: 
+Account has been successfuly created !
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Please, type in your name: Please, type in your surname: Now choose your nickname which will be used to login to the system: 
+!! Account with the same username already exists, please choose another one !!
+
+Do you want to continue ? [Y/N]: Nickname: 
+Account has been successfuly created !
+--------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Login: 
+!! Account with this username does not exist !!
+
+Do you want to continue ? [Y/N]: Login: 
+!! Account with this username does not exist !!
+
+Do you want to continue ? [Y/N]: Login: --------------------------
+You have been successfuly logged in to the system !
+--------------------------
+Menu:
+	0 - add new event
+	1 - remove event
+	2 - move event
+	3 - find free time
+	4 - share event
+	5 - unshare event
+	6 - show events
+	7 - export to .ics
+	8 - healthy life manager
+	9 - log out
+Option: --------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: --------------------------
+Login: 
+!! Account with this username does not exist !!
+
+Do you want to continue ? [Y/N]: Login: 
+!! Account with this username does not exist !!
+
+Do you want to continue ? [Y/N]: Login: 
+!! Account with this username does not exist !!
+
+Do you want to continue ? [Y/N]: Login: 
+!! Account with this username does not exist !!
+
+Do you want to continue ? [Y/N]: Login: 
+!! Account with this username does not exist !!
+
+Do you want to continue ? [Y/N]: Login: --------------------------
+You have been successfuly logged in to the system !
+--------------------------
+Menu:
+	0 - add new event
+	1 - remove event
+	2 - move event
+	3 - find free time
+	4 - share event
+	5 - unshare event
+	6 - show events
+	7 - export to .ics
+	8 - healthy life manager
+	9 - log out
+Option: --------------------------
+Next step:
+0 - create new account
+1 - login to existing account
+2 - exit
+Option: 
